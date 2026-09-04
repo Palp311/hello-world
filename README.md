@@ -16,5 +16,4 @@ hello-world/
 ```
 ---
 
-👤 Autor
 Paul López — @Palp311
