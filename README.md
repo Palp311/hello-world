@@ -1,6 +1,6 @@
-# hello World in R
+# hello World
 
-Repositorio de iniciación, pruebas de flujo de trabajo y análisis exploratorio de datos utilizando el entorno de **R** y **RStudio**.
+Repositorio de iniciación, pruebas de flujo de trabajo y análisis exploratorio de datos utilizando el entorno de **RStudio**.
 
 ---
 
@@ -13,4 +13,8 @@ hello-world/
 ├── README.md           # Documentación general del repositorio
 ├── R/                  # Scripts de procesamiento y funciones
 └── data/               # Conjuntos de datos locales o de prueba
+```
+---
 
+## Autor
+Paul Lopez
