@@ -16,6 +16,5 @@ hello-world/
 ```
 ---
 
-## Autor
-Paul Lopez
-Git HUb Palp311
+👤 Autor
+Paul López — @Palp311
